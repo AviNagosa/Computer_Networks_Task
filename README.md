@@ -3,8 +3,8 @@
 
 EDF target
 ```
- - make EDF
- - ./EDF
+make EDF
+./EDF
 ```
 
 BOUNDED_DELAY target
